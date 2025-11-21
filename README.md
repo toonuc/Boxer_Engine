@@ -1,5 +1,5 @@
 Boxer Engine Symbolic Analysis
-(images/boxer_animation.gif)
+(Boxer_Engine/boxer_animation.gif)
 Part 2: Synthesis - 2D Animation
 
 The following animation demonstrates the 180-degree phase offset of the boxer engine mechanism. The dashed lines represent the stroke path, and the circle represents the crankshaft path.
